@@ -1,0 +1,32 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.text-box {
+    background-color: lightblue;
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid navy;
+    color: darkblue;
+}
+
+
+#main-heading {
+    font-size: 24px;
+    color: crimson;
+    margin-bottom: 15px;
+}
+
+
+.img-style {
+    border: 5px solid teal;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+    width: 300px;
+}
+
